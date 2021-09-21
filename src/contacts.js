@@ -17,11 +17,11 @@ const contacts = [
   },
   {
     id: 3,
-    name: "Chuck Norris",
+    name: "Jamie Chung",
     imgURL:
-      "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
+      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fe7%2Fe4%2Fd9%2Fe7e4d999802fa537193cf64531726063--jaime-chung-beautiful-celebrities.jpg&f=1&nofb=1",
     phone: "+918 372 574",
-    email: "gmail@chucknorris.com"
+    email: "gmail@chung.com"
   }
 ];
 
