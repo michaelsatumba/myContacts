@@ -9,11 +9,11 @@ const contacts = [
   },
   {
     id: 2,
-    name: "Jack Bauer",
+    name: "Vanessa Hudgens",
     imgURL:
-      "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
+      "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fthefappening.pro%2Fwp-content%2Fuploads%2F2019%2F01%2FVanessa-Hudgens-Sexy-2019-6.jpg&f=1&nofb=1",
     phone: "+987 654 321",
-    email: "jack@nowhere.com"
+    email: "vanessa@nowhere.com"
   },
   {
     id: 3,
